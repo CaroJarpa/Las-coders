@@ -1,0 +1,49 @@
+
+
+.coders1{
+	background: url(img/marce.jpg)no repeat;
+	float: left;
+	width: 100px;
+	height: auto;
+
+}
+
+.coders2{
+	background-image: url(img/caro.jpg);
+	background-size: 100%;
+	float: left ;
+	margin: 30px;
+	margin-left: 1px;
+}
+
+.coders3{
+	background-image: url(img/mami.jpg);
+	background-size: 100%;
+	float: left;
+	margin: 30px;
+	margin-left: 1px;
+}
+
+.coders4{
+	background-image: url(img/kelly2.jpg);
+	background-size: 100%;
+	margin: 190px;
+	margin-left: 30px;
+}
+
+.coders5{
+	background-size: 100%;
+	float: left;
+	margin: 30px;
+	margin-left: 1px;
+}
+
+.coders6{
+	background-size: 100%;
+	float: left;
+	margin: 30px;
+	margin-left: 1px;
+}
+
+
+
